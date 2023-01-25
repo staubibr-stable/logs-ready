@@ -19,13 +19,6 @@
                 "style": "emergency_areas",
                 "join": "dauid"
             }, {
-                "id": "Network",
-                "type": "linestring",
-                "file": "network.geojson",
-                "label": "Road Network",
-                "style": "network",
-                "join": null
-            }, {
                 "id": "Hospitals",
                 "type": "point",
                 "file": "hospitals.geojson",
